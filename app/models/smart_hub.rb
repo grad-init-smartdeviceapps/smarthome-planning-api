@@ -1,0 +1,2 @@
+class SmartHub < ApplicationRecord
+end

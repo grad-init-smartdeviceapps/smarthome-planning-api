@@ -1,0 +1,2 @@
+class SmartDevice < ApplicationRecord
+end
